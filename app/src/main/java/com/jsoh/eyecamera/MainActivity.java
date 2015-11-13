@@ -63,6 +63,7 @@ public final class MainActivity extends AppCompatActivity {
     // 인사말
     private SoundPool mSoundPool;
     private int mSoundHello;
+    private int mSoundHello2;
 
     //==============================================================================================
     // Activity Methods
@@ -75,6 +76,7 @@ public final class MainActivity extends AppCompatActivity {
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
         setContentView(R.layout.activity_main);
+
 
         mPreview = (CameraSourcePreview) findViewById(R.id.preview);
         mGraphicOverlay = (GraphicOverlay) findViewById(R.id.faceOverlay);
@@ -157,6 +159,7 @@ public final class MainActivity extends AppCompatActivity {
 
         mSoundPool = SoundUtil.buildSoundPool(2);
         mSoundHello = mSoundPool.load(this, R.raw.hello, 1);
+        mSoundHello2 = mSoundPool.load(this, R.raw.hello, 1);
     }
 
     /**
