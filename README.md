@@ -10,4 +10,4 @@
 
 새로운 얼굴을 인식했을 때 "안녕" 하고 인사합니다.
 
-![앱 화면](https://goo.gl/photos/SmGaHB3MipmxrU7T8)
+![앱 화면](https://raw.githubusercontent.com/junsuk5/Hello/master/doc/eyeCamera.gif)
