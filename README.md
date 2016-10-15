@@ -1,6 +1,8 @@
+수원스마트앱개발학원(http://www.suwonsmartapp.com) x 플렉시블 앱 개발단(https://www.facebook.com/groups/suwon.dev) 제작
+
 # Hello Android
 
-2015 Google HackFair, 2016 Google HackFair 제출용
+2015, 2016 Google HackFair 제출용
 
 사람이 보이면 인사를 하고, 쳐다보며 웃으면 같이 웃는 재미용 앱 개발
 2.0 버전은 사람의 성별을 판별해서 알려줍니다.
